@@ -1,0 +1,25 @@
+/* h1{
+    color:blue;
+}
+body{
+    background-color:yellowgreen;
+}
+button{
+    background-color:brown;
+    color:azure;
+} */
+
+/* #box{
+    height:250px;
+    width:100px;
+    background-color: blue;
+    color:white;
+    border:1px solid black;
+} */
+
+.content{
+    color:red;
+}
+.newclass{
+    background-color: green;
+}
